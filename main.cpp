@@ -9,7 +9,7 @@ const char* HOST = "localhost";
 const char* USER = "root";
 const char* PW = "your Password";
 const char* DB = "mydb";
-
+ 
 class Seats{
 private:
 	int Seat[5][10];
